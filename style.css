@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 50px 400px;
+    background-color: lightblue;
+}
+.head{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    line-height: 20px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+
+}
+.head div{
+    width: 500px;
+}
+.mains{
+    width: 6000px;
+    height: 8000px;
+}
+table{
+    background-color: aliceblue;
+    padding-top: 20px;
+    margin-right: 500px;
+    width: 680px;
+    line-height: 20px;
+    text-align: center;
+}
+td{
+    width: 250px;
+}
+#last{
+    line-height: 30px;
+    font-size: 20px;
+}
